@@ -87,7 +87,8 @@
 
   nav{
     float: right;
-    margin-top: 25px;
+    /* margin-top: 25px; */
+    height: 104.77px;
   }
 
   nav a{
