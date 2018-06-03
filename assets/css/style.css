@@ -87,7 +87,6 @@
 
   nav{
     float: right;
-    /* margin-top: 25px; */
     height: 104.77px;
   }
 
@@ -150,8 +149,9 @@ footer{
   text-align: center;
 }
 
-h3,
-.social-media h2{
+h2, h3,
+.social-media 
+{
   padding-bottom: 20px;
   margin-bottom: 15px;
   line-height: 22px;
